@@ -1,0 +1,2 @@
+test created
+/bin/bash: строка 1: q: команда не найдена
